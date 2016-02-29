@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./pindaricarmina00heyngoog_0234.png"; bbox 0 0 2648 4374; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 180 467 827 538">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 180 467 827 538">
+     <span class='ocr_line' id='line_1_1' title="bbox 180 467 827 538; baseline 0.012 -12"><span class='ocrx_word' id='word_1_1' title='bbox 180 476 251 536; x_wconf 68' lang='lat'><strong>,926</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 572 467 827 538; x_wconf 79' lang='lat' dir='ltr'><strong>ISTHMIA.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 182 725 1238 816">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 182 725 1238 816">
+     <span class='ocr_line' id='line_1_2' title="bbox 182 725 1238 816; baseline 0.002 -24"><span class='ocrx_word' id='word_1_3' title='bbox 182 726 294 792; x_wconf 71' lang='lat' dir='ltr'>a&#39;nimo</span> <span class='ocrx_word' id='word_1_4' title='bbox 308 727 423 814; x_wconf 71' lang='lat' dir='ltr'>pare&#39;m.</span> <span class='ocrx_word' id='word_1_5' title='bbox 452 727 571 814; x_wconf 77' lang='lat' dir='ltr'>Accipe</span> <span class='ocrx_word' id='word_1_6' title='bbox 586 727 615 793; x_wconf 89' lang='lat' dir='ltr'><strong>ei</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 630 747 788 809; x_wconf 74' lang='lat' dir='ltr'><strong>eoronam,</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 802 731 908 814; x_wconf 75' lang='lat' dir='ltr'>ferque</span> <span class='ocrx_word' id='word_1_9' title='bbox 915 725 1055 794; x_wconf 75' lang='lat' dir='ltr'><strong>villosam</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1072 727 1238 816; x_wconf 70' lang='lat' dir='ltr'><strong>(laneam)</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 192 1028 981 1116">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 192 1028 981 1116">
+     <span class='ocr_line' id='line_1_3' title="bbox 192 1028 981 1116; baseline 0 -22"><span class='ocrx_word' id='word_1_11' title='bbox 192 1029 310 1112; x_wconf 76' lang='lat' dir='ltr'>vittam,</span> <span class='ocrx_word' id='word_1_12' title='bbox 325 1040 358 1096; x_wconf 85' lang='lat' dir='ltr'><strong>et</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 372 1031 488 1097; x_wconf 76' lang='lat' dir='ltr'><strong>alatum</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 503 1050 619 1096; x_wconf 86' lang='lat' dir='ltr'>novum</span> <span class='ocrx_word' id='word_1_15' title='bbox 636 1028 804 1097; x_wconf 73' lang='lat' dir='ltr'><strong>una-mitte</strong></span> <span class='ocrx_word' id='word_1_16' title='bbox 817 1029 981 1116; x_wconf 84' lang='lat' dir='ltr'><strong>hymnum.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1328 4374">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1328 4374">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1328 4374; baseline 0 0"><span class='ocrx_word' id='word_1_17' title='bbox 0 0 1328 4374; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
